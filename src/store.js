@@ -1,7 +1,8 @@
 import createStore from "unistore";
 
 export const store = createStore({
-  host: "http://localhost:8888/",
+  // host: "http://localhost:8888/",
+  host: "http://api.ecommerce.yanuz.id/",
   // cart: 0,
   category: [],
   product: [],
